@@ -68,6 +68,7 @@ function Test004() {
   timer();
   timer();
   timer();
+  timer();
 }
 
 //Test004();
